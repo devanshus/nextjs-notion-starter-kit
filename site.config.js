@@ -14,7 +14,7 @@ module.exports = {
   // open graph metadata (optional)
   description: 'Portfolio',
   socialImageTitle: 'Dev S',
-  socialImageSubtitle: 'Hello World! 👋',
+  socialImageSubtitle: 'Hello Devanshu!',
 
   // social usernames (optional)
   twitter: 'devanshux',
